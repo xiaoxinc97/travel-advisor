@@ -3,8 +3,8 @@
 Travel Advisor is a full-stack web application that leverages the power of OpenAI's ChatGPT and Foursquare's API to offer a unique travel experience.  Users can discover popular tourist spots tailored to their interests, create and manage detailed travel plans, and maintain a list of favorite spots. The application features an intuitive user interface for spot discovery based on user preferences, dynamic travel planning aided by AI, user authentication, and profile management.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/travel-advisor/main/image1.JPG" width="45%" />
-  <img src="https://raw.githubusercontent.com/username/travel-advisor/main/image2.JPG" width="45%" /> 
+  <img src="https://github.com/xiaoxinc97/travel-advisor/blob/367f0a573c5686a55c615fedf2230d96445440c7/image1.JPG" width="45%" />
+  <img src="https://github.com/xiaoxinc97/travel-advisor/blob/367f0a573c5686a55c615fedf2230d96445440c7/image2.JPG" width="45%" /> 
 </p>
 
 
