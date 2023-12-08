@@ -1,0 +1,22 @@
+h3 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size:24px;
+    font-weight: normal;
+    color: #222;
+}
+
+h4 {
+    color: #444343; 
+    font-family: 'Lobster', cursive; 
+    font-size: 20px; 
+    font-weight: normal; 
+    line-height: 36px; 
+    margin: 0 0 18px; 
+    text-shadow: 1px 0 0 #fff;
+}
+
+.travelPlanningContainer {
+    margin: 0 auto; 
+    width: 90%; 
+    padding: 20px; 
+}

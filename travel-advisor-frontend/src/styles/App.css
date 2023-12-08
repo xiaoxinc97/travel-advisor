@@ -1,0 +1,38 @@
+.title {
+    color: #d54d7b; 
+    font-family: "Great Vibes", cursive; 
+    font-size: x-large; 
+    line-height: large; 
+    font-weight: normal; 
+    text-shadow: 0 1px 1px #fff;
+}
+
+.subtitle {
+    color: #123a5a; 
+    font-family: "Great Vibes", cursive; 
+    font-size: medium; 
+    line-height: large; 
+    font-weight: normal; 
+    text-shadow: 0 1px 1px #fff;
+}
+
+.menuTitle {
+    color: #070707; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: large; 
+    font-weight: 800; 
+    text-transform: uppercase;
+}
+
+.menuText {
+    color: #363131; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: small; 
+    font-weight: 800; 
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.userButton {
+    border-radius: 50%;
+}
